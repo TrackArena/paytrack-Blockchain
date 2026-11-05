@@ -133,6 +133,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Contract contributions require:
 3. Passing unit and integration tests
 4. Documentation of all public interfaces
 
+## Architecture
+
+The full system architecture is documented in the backend repository:
+
+→ [paytrack-backend/ARCHITECTURE.md](https://github.com/PayTrack/paytrack-backend/blob/main/ARCHITECTURE.md)
+
 ## Related Repositories
 
 - [paytrack-backend](https://github.com/PayTrack/paytrack-backend) — API server, Stellar SDK integration
